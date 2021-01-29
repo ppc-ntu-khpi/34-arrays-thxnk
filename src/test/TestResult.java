@@ -2,7 +2,10 @@ package test;
 
 import domain.Exercise;
 import java.util.Scanner;
-
+/**
+ * a test class in which we generate array
+ * @author boss
+ */
 public class TestResult {
 
     public static void main(String[] args) {
